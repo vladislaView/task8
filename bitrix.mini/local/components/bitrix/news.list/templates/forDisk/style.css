@@ -1,0 +1,14 @@
+div.news-list
+{
+	word-wrap: normal;
+	display: grid;
+	grid-template-columns: 200px 200px 200px;
+}
+div.news-item img.preview_picture
+{
+	font-size: 5vw;
+	padding: .5em;
+	background: gold;
+	text-align: center;
+}
+
